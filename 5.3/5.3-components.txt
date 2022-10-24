@@ -1,0 +1,9 @@
+What is a component?
+    - 'Single' modular pieces of code that can be reused
+    - Made up of css, js, and html. Need all three to build a single component
+
+Components are reusable and can help us keep code dry without repeating ourselves.
+
+Components are usually stand-alone and agnostic to their context.
+    - That means that once a component is built, it can work in different applications
+
